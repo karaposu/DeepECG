@@ -1,5 +1,6 @@
-# Reprodicing results from paper : Deep Learning for ECG Classification
-
+# Reproducing results from paper : Deep Learning for ECG Classification
+Enes Kuzucu
+----------------------------------------------------------------------------
 
 # DeepECG
 ECG classification programs based on ML/DL methods. There are two datasets:
