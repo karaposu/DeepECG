@@ -1,4 +1,4 @@
-#Reprodicing results from paper : Deep Learning for ECG Classification
+# Reprodicing results from paper : Deep Learning for ECG Classification
 
 
 # DeepECG
