@@ -1,5 +1,3 @@
-Reproducing The "Brain Typing" Paper
-==========================================
 
 # Reproducing results from paper : Deep Learning for ECG Classification
 Enes Kuzucu
