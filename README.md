@@ -2,7 +2,7 @@
 # Reproducing results from paper : Deep Learning for ECG Classification
 Enes Kuzucu
 
-I prepared Jupyter Notebook to reproduce the results only with minor edits in the code. Original Code belongs paper authors. Original ReadMe is below.
+I prepared a Jupyter Notebook (in Colab) to reproduce the results only with minor edits in the code. Original Code belongs paper authors. Original ReadMe is below.
 ----------------------------------------------------------------------------
 
 # DeepECG
